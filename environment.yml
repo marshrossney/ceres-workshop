@@ -12,4 +12,7 @@ dependencies:
   - pytest
   - black
   - flake8
+  - numpy
+  - matplotlib
+  - ipython
 prefix: /home/joe/.miniconda3/envs/ceres
